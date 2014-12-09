@@ -7,7 +7,7 @@ import javax.swing.*;
 
 public class StreetObserverLocationMap {
 	
-	private static final String DEFAULT_ICON_PATH = "/images/somethingWrongHappened.png";
+	private static final String DEFAULT_ICON_PATH = "res/images/somethingWrongHappened.png";
 	private Optional<ImageIcon> controlIcon;
 	
 	public StreetObserverLocationMap () {
